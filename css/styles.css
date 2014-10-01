@@ -1,5 +1,18 @@
 /* Your Website Styles */
 
+.char1,
+.char3,
+.char5,
+.char7 {
+	color: blue;
+}
+
+.word2,
+.word4 {
+	color: orange;
+	letter-spacing: -2px;
+}
+
 
 /* Show Grid */
 .showgrid {
